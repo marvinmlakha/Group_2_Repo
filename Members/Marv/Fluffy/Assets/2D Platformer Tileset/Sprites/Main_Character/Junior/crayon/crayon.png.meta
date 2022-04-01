@@ -1,0 +1,864 @@
+fileFormatVersion: 2
+guid: d340b243df2972c47aaf032a191b5002
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -709768274109351568
+    second: crayon_0
+  - first:
+      213: -1401306668116082086
+    second: crayon_1
+  - first:
+      213: 7318773829262125020
+    second: crayon_2
+  - first:
+      213: 4687223763519496814
+    second: crayon_3
+  - first:
+      213: 8425716833070094922
+    second: crayon_4
+  - first:
+      213: -1630609338450054296
+    second: crayon_5
+  - first:
+      213: -5867547987976767438
+    second: crayon_6
+  - first:
+      213: -910972497043646930
+    second: crayon_7
+  - first:
+      213: -3291121760014296382
+    second: crayon_8
+  - first:
+      213: -3244174710397922961
+    second: crayon_9
+  - first:
+      213: -6248406847828509601
+    second: crayon_10
+  - first:
+      213: -7113895719814692697
+    second: crayon_11
+  - first:
+      213: -7477543148718677933
+    second: crayon_12
+  - first:
+      213: 2583243074465174137
+    second: crayon_13
+  - first:
+      213: 785587825560760964
+    second: crayon_14
+  - first:
+      213: 4596719878277365482
+    second: crayon_15
+  - first:
+      213: 3736161643174905756
+    second: crayon_16
+  - first:
+      213: 3914769967661695609
+    second: crayon_17
+  - first:
+      213: 6547783254228641923
+    second: crayon_18
+  - first:
+      213: 1910497762453775222
+    second: crayon_19
+  - first:
+      213: 6139253939291123037
+    second: crayon_20
+  - first:
+      213: 5610758930207916185
+    second: crayon_21
+  - first:
+      213: -3024403229719722380
+    second: crayon_22
+  - first:
+      213: -7275608010762933505
+    second: crayon_23
+  - first:
+      213: -3528087396746086196
+    second: crayon_24
+  - first:
+      213: 4338689843159645165
+    second: crayon_25
+  - first:
+      213: 5572360951369983879
+    second: crayon_26
+  - first:
+      213: 5162170670293627783
+    second: crayon_27
+  - first:
+      213: 1708645313693272472
+    second: crayon_28
+  - first:
+      213: -1607851941510843053
+    second: crayon_29
+  - first:
+      213: -5427237553580875532
+    second: crayon_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crayon_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 787
+        width: 158
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079bed4e3856626f0800000000000000
+      internalID: -709768274109351568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 787
+        width: 158
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a520e81820f8d8ce0800000000000000
+      internalID: -1401306668116082086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_2
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 781
+        width: 156
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7289c6502819560800000000000000
+      internalID: 7318773829262125020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_3
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 773
+        width: 155
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62695fcd2d5c0140800000000000000
+      internalID: 4687223763519496814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 554
+        width: 159
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a1c2d71d82ee470800000000000000
+      internalID: 8425716833070094922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 553
+        width: 158
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863ff3e2279ee59e0800000000000000
+      internalID: -1630609338450054296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_6
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 549
+        width: 156
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238361a4138429ea0800000000000000
+      internalID: -5867547987976767438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_7
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 549
+        width: 154
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26109927539b53f0800000000000000
+      internalID: -910972497043646930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_8
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 549
+        width: 154
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca1ac542369352d0800000000000000
+      internalID: -3291121760014296382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_9
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 546
+        width: 154
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f611d6d0a406af2d0800000000000000
+      internalID: -3244174710397922961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_10
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 546
+        width: 154
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c301fc3133949a0800000000000000
+      internalID: -6248406847828509601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 151
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0064ba88d564d90800000000000000
+      internalID: -7113895719814692697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_12
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 269
+        width: 152
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350a7fbbf1e6a3890800000000000000
+      internalID: -7477543148718677933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_13
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 275
+        width: 152
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9721cfdb3e589d320800000000000000
+      internalID: 2583243074465174137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_14
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 275
+        width: 150
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482bb6217f7f6ea00800000000000000
+      internalID: 785587825560760964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_15
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 277
+        width: 149
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeef2b4ff54dacf30800000000000000
+      internalID: 4596719878277365482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_16
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 274
+        width: 155
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9741ec283389d330800000000000000
+      internalID: 3736161643174905756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_17
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 261
+        width: 169
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972c7d35b8e045630800000000000000
+      internalID: 3914769967661695609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_18
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 65
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388ac869d266eda50800000000000000
+      internalID: 6547783254228641923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_19
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 74
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6736c3bb793738a10800000000000000
+      internalID: 1910497762453775222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_20
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 0
+        width: 191
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d6d5d3ee2033550800000000000000
+      internalID: 6139253939291123037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_21
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 74
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990c46b158b6ddd40800000000000000
+      internalID: 5610758930207916185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_22
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 68
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476030b59492706d0800000000000000
+      internalID: -3024403229719722380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_23
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 68
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa2d71ef09d70b90800000000000000
+      internalID: -7275608010762933505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_24
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 68
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8ba6c8437b90fc0800000000000000
+      internalID: -3528087396746086196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 154
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb302ccc6f163c30800000000000000
+      internalID: 4338689843159645165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_26
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 7
+        width: 154
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7876aaaf2c0055d40800000000000000
+      internalID: 5572360951369983879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_27
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 4
+        width: 154
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783bac0dfd6b3a740800000000000000
+      internalID: 5162170670293627783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_28
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 0
+        width: 155
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899c2d92cd356b710800000000000000
+      internalID: 1708645313693272472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_29
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 3
+        width: 158
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355f2de8d23cfa9e0800000000000000
+      internalID: -1607851941510843053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_30
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 11
+        width: 158
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0e62323349ea4b0800000000000000
+      internalID: -5427237553580875532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
