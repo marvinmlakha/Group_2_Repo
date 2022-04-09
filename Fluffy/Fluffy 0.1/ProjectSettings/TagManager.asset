@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - fire
+  - bullet
+  - wall
+  - respawn
+  - hole
+  - sword
+  - enemy
+  - star
+  - staff
+  - crayon
+  - bannerEnd
+  - bannerStart
+  - ground
+  - fluffyLeft
+  - fluffyRight
+  - doubleJump
+  - heart
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - 
+  - Player
+  - Cam
+  - 
+  - EnemyBullet
+  - Enemies
+  - 
+  - Weapons
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemies
+    uniqueID: 785086987
+    locked: 0
+  - name: Ground
+    uniqueID: 2953383319
+    locked: 0
+  - name: Player
+    uniqueID: 1606874463
+    locked: 0
+  - name: PlayerWeapon
+    uniqueID: 2804732333
+    locked: 0
