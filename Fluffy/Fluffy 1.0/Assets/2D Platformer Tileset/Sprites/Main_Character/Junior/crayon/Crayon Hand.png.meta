@@ -1,0 +1,852 @@
+fileFormatVersion: 2
+guid: be82d19ca5f110b498e69a3594c41e51
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7041638349930474285
+    second: Crayon Hand_0
+  - first:
+      213: 42704174316991177
+    second: Crayon Hand_1
+  - first:
+      213: -500207751266034145
+    second: Crayon Hand_2
+  - first:
+      213: 8806422597512876465
+    second: Crayon Hand_3
+  - first:
+      213: -6101777202294189537
+    second: Crayon Hand_4
+  - first:
+      213: 3614869826314072439
+    second: Crayon Hand_5
+  - first:
+      213: 3043094094848953074
+    second: Crayon Hand_6
+  - first:
+      213: 5704496344887356229
+    second: Crayon Hand_7
+  - first:
+      213: 8428978900176935710
+    second: Crayon Hand_8
+  - first:
+      213: 4371535073808654305
+    second: Crayon Hand_9
+  - first:
+      213: -5958232650285578000
+    second: Crayon Hand_10
+  - first:
+      213: -4049727380529008301
+    second: Crayon Hand_11
+  - first:
+      213: -840995611670110390
+    second: Crayon Hand_12
+  - first:
+      213: -7773477067745747073
+    second: Crayon Hand_13
+  - first:
+      213: -3826206065829613028
+    second: Crayon Hand_14
+  - first:
+      213: 6158635021404803034
+    second: Crayon Hand_15
+  - first:
+      213: 5492962388179440829
+    second: Crayon Hand_16
+  - first:
+      213: 1567975880851481186
+    second: Crayon Hand_17
+  - first:
+      213: 2382711951620467104
+    second: Crayon Hand_18
+  - first:
+      213: -3253129749170016768
+    second: Crayon Hand_19
+  - first:
+      213: -1717874262771622972
+    second: Crayon Hand_20
+  - first:
+      213: 3924220988741005332
+    second: Crayon Hand_21
+  - first:
+      213: -297872451036578293
+    second: Crayon Hand_22
+  - first:
+      213: -4816570680579978470
+    second: Crayon Hand_23
+  - first:
+      213: -6406139023468061200
+    second: Crayon Hand_24
+  - first:
+      213: 5444513023856035747
+    second: Crayon Hand_25
+  - first:
+      213: 4039059715040658912
+    second: Crayon Hand_26
+  - first:
+      213: -5667272721521838726
+    second: Crayon Hand_27
+  - first:
+      213: -3377590500062549289
+    second: Crayon Hand_28
+  - first:
+      213: 1919974648083673190
+    second: Crayon Hand_29
+  - first:
+      213: 5033582255616023057
+    second: Crayon Hand_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crayon Hand_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 787
+        width: 158
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d450ab9a33174e90800000000000000
+      internalID: -7041638349930474285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 787
+        width: 158
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c237946837b79000800000000000000
+      internalID: 42704174316991177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_2
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 781
+        width: 156
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e14ef43b7ee09f0800000000000000
+      internalID: -500207751266034145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_3
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 773
+        width: 155
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b15abaa1b2b63a70800000000000000
+      internalID: 8806422597512876465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 554
+        width: 159
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f129dae86f1225ba0800000000000000
+      internalID: -6101777202294189537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 553
+        width: 158
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7717ab264f89a2230800000000000000
+      internalID: 3614869826314072439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_6
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 549
+        width: 156
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa8f8dc4fd3b3a20800000000000000
+      internalID: 3043094094848953074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_7
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 549
+        width: 154
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b6683b3317a2f40800000000000000
+      internalID: 5704496344887356229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_8
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 549
+        width: 154
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b1f4ca6afb9f470800000000000000
+      internalID: 8428978900176935710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_9
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 546
+        width: 154
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef968dfcffcaac30800000000000000
+      internalID: 4371535073808654305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_10
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 546
+        width: 154
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8089ef8fa105da0800000000000000
+      internalID: -5958232650285578000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 151
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351356e576a7cc7c0800000000000000
+      internalID: -4049727380529008301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_12
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 269
+        width: 152
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f9dbc62fe2454f0800000000000000
+      internalID: -840995611670110390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_13
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 275
+        width: 152
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f9e53eacf0f1490800000000000000
+      internalID: -7773477067745747073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_14
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 275
+        width: 150
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12f7c0fad596eac0800000000000000
+      internalID: -3826206065829613028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_15
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 277
+        width: 149
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf0d101cedd77550800000000000000
+      internalID: 6158635021404803034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_16
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 274
+        width: 155
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db45408603cea3c40800000000000000
+      internalID: 5492962388179440829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_17
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 261
+        width: 169
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262688291c192c510800000000000000
+      internalID: 1567975880851481186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_18
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 65
+        width: 28
+        height: 41
+      alignment: 9
+      pivot: {x: 0.43358177, y: 0.47731873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a96a6655e7111120800000000000000
+      internalID: 2382711951620467104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_19
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 74
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e277c9abf8ad2d0800000000000000
+      internalID: -3253129749170016768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_20
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 0
+        width: 191
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb16bea572e828e0800000000000000
+      internalID: -1717874262771622972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_21
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 74
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4103a06a232a57630800000000000000
+      internalID: 3924220988741005332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_22
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 68
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ef69f759ebddbf0800000000000000
+      internalID: -297872451036578293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_23
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 68
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b087c3c7a182db0800000000000000
+      internalID: -4816570680579978470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_24
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 68
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd1b64df72d817a0800000000000000
+      internalID: -6406139023468061200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 154
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a74de9bfbbce8b40800000000000000
+      internalID: 5444513023856035747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_26
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 7
+        width: 154
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5c695396f9d0830800000000000000
+      internalID: 4039059715040658912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_27
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 4
+        width: 154
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75fd6c7c7dc951b0800000000000000
+      internalID: -5667272721521838726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_28
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 0
+        width: 155
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daa90fd5536021d0800000000000000
+      internalID: -3377590500062549289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_29
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 3
+        width: 158
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66078cc15ce15aa10800000000000000
+      internalID: 1919974648083673190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon Hand_30
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 11
+        width: 158
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ad3b57460ead540800000000000000
+      internalID: 5033582255616023057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

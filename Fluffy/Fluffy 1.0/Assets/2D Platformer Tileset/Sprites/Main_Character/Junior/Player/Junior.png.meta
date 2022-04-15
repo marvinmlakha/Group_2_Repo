@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: 92e0b97b996723341abb152cc2e0ac1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7891893518030200035
+    second: Junior_0
+  - first:
+      213: -6505520912382874817
+    second: Junior_1
+  - first:
+      213: -372310245555946221
+    second: Junior_2
+  - first:
+      213: -6969092612052374628
+    second: Junior_3
+  - first:
+      213: 6678209248597233794
+    second: Junior_4
+  - first:
+      213: -5951624268248449821
+    second: Junior_5
+  - first:
+      213: 3732232137709583003
+    second: Junior_6
+  - first:
+      213: 6640149668461698401
+    second: Junior_7
+  - first:
+      213: -8664886799814613151
+    second: Junior_8
+  - first:
+      213: 106872287848755574
+    second: Junior_9
+  - first:
+      213: 5951361275748840308
+    second: Junior_10
+  - first:
+      213: 1615078336081558972
+    second: Junior_11
+  - first:
+      213: -4952298437660397892
+    second: Junior_12
+  - first:
+      213: -6095271360885815898
+    second: Junior_13
+  - first:
+      213: -7973262584992794661
+    second: Junior_14
+  - first:
+      213: 1575909202950397033
+    second: Junior_15
+  - first:
+      213: -19486591273416442
+    second: Junior_16
+  - first:
+      213: -9208383229536377492
+    second: Junior_17
+  - first:
+      213: -4283533585508467851
+    second: Junior_18
+  - first:
+      213: -524724128146752173
+    second: Junior_19
+  - first:
+      213: 4767297874964773432
+    second: Junior_20
+  - first:
+      213: -933974872639295252
+    second: Junior_21
+  - first:
+      213: 7538625547693973726
+    second: Junior_22
+  - first:
+      213: 3954147978160531437
+    second: Junior_23
+  - first:
+      213: 4899034290596357641
+    second: Junior_24
+  - first:
+      213: -4130959596343069604
+    second: Junior_25
+  - first:
+      213: 4212138043235637925
+    second: Junior_26
+  - first:
+      213: -2520626288657103208
+    second: Junior_27
+  - first:
+      213: 3793255001430487465
+    second: Junior_28
+  - first:
+      213: 3222490604555782154
+    second: Junior_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Junior_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1087
+        width: 100
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecd5637753a58d60800000000000000
+      internalID: 7891893518030200035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_1
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1087
+        width: 101
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b2b8aa23fb7b5a0800000000000000
+      internalID: -6505520912382874817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_2
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1085
+        width: 103
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d3663edc945daf0800000000000000
+      internalID: -372310245555946221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_3
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1085
+        width: 107
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ba1d3713fc84f90800000000000000
+      internalID: -6969092612052374628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 843
+        width: 102
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280dd5ecde3cdac50800000000000000
+      internalID: 6678209248597233794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 846
+        width: 103
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecf476d245976da0800000000000000
+      internalID: -5951624268248449821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_6
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 842
+        width: 105
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9af973ea5d8bc330800000000000000
+      internalID: 3732232137709583003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_7
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 847
+        width: 104
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d561441fc862c50800000000000000
+      internalID: 6640149668461698401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_8
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 849
+        width: 102
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16724163d5320c780800000000000000
+      internalID: -8664886799814613151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_9
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 848
+        width: 104
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671fe8197cfab7100800000000000000
+      internalID: 106872287848755574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_10
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 843
+        width: 105
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47376037c8b779250800000000000000
+      internalID: 5951361275748840308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 561
+        width: 103
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdf19a8039e96610800000000000000
+      internalID: 1615078336081558972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 569
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbea7813fc6e54bb0800000000000000
+      internalID: -4952298437660397892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_13
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 576
+        width: 104
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a50acccdfe396ba0800000000000000
+      internalID: -6095271360885815898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_14
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 579
+        width: 105
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd777905ce7495190800000000000000
+      internalID: -7973262584992794661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_15
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 577
+        width: 102
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c90201211ced510800000000000000
+      internalID: 1575909202950397033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_16
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 573
+        width: 103
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609c3496c05cabff0800000000000000
+      internalID: -19486591273416442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_17
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 563
+        width: 104
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65e1d7ad30453080800000000000000
+      internalID: -9208383229536377492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 99
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bff4c26e4dd84c0800000000000000
+      internalID: -4283533585508467851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 280
+        width: 102
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d7cb08f2ec7b8f0800000000000000
+      internalID: -524724128146752173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_20
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 119
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83affb7b828d82240800000000000000
+      internalID: 4767297874964773432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_21
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 284
+        width: 101
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0b13f3dcad903f0800000000000000
+      internalID: -933974872639295252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_22
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 0
+        width: 154
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0ebf88ef39e9860800000000000000
+      internalID: 7538625547693973726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_23
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 284
+        width: 104
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7669bd2a4ffd630800000000000000
+      internalID: 3954147978160531437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_24
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 0
+        width: 180
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90624792bbddcf340800000000000000
+      internalID: 4899034290596357641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_25
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 285
+        width: 100
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54fa764222eba6c0800000000000000
+      internalID: -4130959596343069604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_26
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 286
+        width: 105
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa18f3cb35847a30800000000000000
+      internalID: 4212138043235637925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_27
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 287
+        width: 103
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896051dcebfe40dd0800000000000000
+      internalID: -2520626288657103208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_28
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 116
+        width: 101
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1fcb6835954a430800000000000000
+      internalID: 3793255001430487465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junior_29
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 5
+        width: 199
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08c490a12698bc20800000000000000
+      internalID: 3222490604555782154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
